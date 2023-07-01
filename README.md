@@ -1,5 +1,4 @@
 # Basic-Banking-App
-This is my 3rd task as an intern at The Sparks Foundation.
 Task flow is mentioned below:-
 ◇ Created a simple mobile app which has the following specs.
 ◇ Started with login screen.
